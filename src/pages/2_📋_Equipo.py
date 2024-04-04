@@ -29,9 +29,9 @@ with col2:
     st.markdown("""
     <h2 style='font-size: 20px;'></h2>
     <ul>
-        <li>Procedencia</li>
-        <li>Estudios: </li>
-        <li>Última profesión: </li>
+        <li>Gaditana (Cádiz)</li>
+        <li>Estudios: Ciencias del Mar en Cádiz: </li>
+        <li>Última profesión: Agente comercial </li>
         <li>Experiencia relacionada con Data Science: </li>
     </ul>
     """, unsafe_allow_html=True)
